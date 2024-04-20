@@ -1,0 +1,2 @@
+/home/hexxa/Documents/Source Code/CTutorial/CMakeFiles/edit_cache.dir
+/home/hexxa/Documents/Source Code/CTutorial/CMakeFiles/rebuild_cache.dir

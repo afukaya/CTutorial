@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"makefile.buildLog": "./logs",
+		"makefile.makefilePath": ".",
+		"cmake.options.statusBarVisibility": "visible"
+	}
+}
